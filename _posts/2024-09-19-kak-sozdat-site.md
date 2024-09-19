@@ -2,7 +2,7 @@
 layout: post
 title: "Как создать сайт с нуля: пошаговое руководство"
 author: sal
-categories: [Веб-разработка, Обучение]
+categories: [CSS]
 image: assets/images/16.jpg
 ---
 
